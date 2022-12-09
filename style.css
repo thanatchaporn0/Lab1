@@ -1,0 +1,91 @@
+h1 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.cotnainer {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 50px; 
+}
+
+p.bio {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+hr {
+    width: 100px;
+    height: 2px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+img.logo {
+    width: 88px;
+    height: 88px;
+    border-radius: 58%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.name {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(236, 18, 84, 0.7);
+}
+
+p1 {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+span.slogan {
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    color: rgba(228, 97, 136, 0.7);
+    margin-bottom: 35px;
+}
+
+h2.name {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: rgba(214, 66, 111, 0.7);
+}
+
+table {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+}
+h5 {
+    text-align: center;
+    font-size: medium;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    color: rgba(31, 31, 31, 0.582);
+}
